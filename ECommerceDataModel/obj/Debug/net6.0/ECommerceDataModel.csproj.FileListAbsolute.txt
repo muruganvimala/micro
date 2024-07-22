@@ -1,0 +1,23 @@
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.deps.json
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.dll
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.pdb
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.AssemblyReference.cache
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfoInputs.cache
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfo.cs
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.CoreCompileInputs.cache
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.dll
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\refint\ECommerceDataModel.dll
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.pdb
+D:\My Desk\Practice\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ref\ECommerceDataModel.dll
+D:\Techset\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.deps.json
+D:\Techset\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.dll
+D:\Techset\ECommerceApp\ECommerceDataModel\bin\Debug\net6.0\ECommerceDataModel.pdb
+D:\Techset\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Techset\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfoInputs.cache
+D:\Techset\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.AssemblyInfo.cs
+D:\Techset\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.csproj.CoreCompileInputs.cache
+D:\Techset\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.dll
+D:\Techset\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\refint\ECommerceDataModel.dll
+D:\Techset\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ECommerceDataModel.pdb
+D:\Techset\ECommerceApp\ECommerceDataModel\obj\Debug\net6.0\ref\ECommerceDataModel.dll
